@@ -9,5 +9,6 @@ The programming ligatures used by this font are very nonstandard and experimenta
 
 The programming languages that currently have ligature sets are:
 * Ruby
+* Markdown Task Lists
 
 I plan on adding several other ligature sets in the near future, and I might also add a general set of ligatures that adhere more closely to the common style of programming ligatures.
